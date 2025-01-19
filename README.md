@@ -16,11 +16,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrodri&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="moonrodri" />  </p>
 <p><img align="left"src="https://github-readme-stats.vercel.app/api?username=moonrodri&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="moonrodri" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=moonrodri&theme=blueberry&hide_border=true" alt="moonrodri" /></p> 
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moonrodri&theme=blueberry&hide_border=true" alt="moonrodri" /></p> 
 
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonrodri&theme=discord&no-frame=true" alt="moonrodri" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonrodri&label=Profile%20views&color=6549ee&style=flat-square" alt="moonrodri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonrodri&theme=discord" alt="moonrodri" /></a> </p>
 
 <!---
 MoonRodri/MoonRodri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
